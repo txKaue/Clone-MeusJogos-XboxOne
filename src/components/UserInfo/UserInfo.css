@@ -1,0 +1,24 @@
+.iconUser img{
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    border: 2px solid rgb(104, 104, 104)
+}
+
+.nameUser h1{
+    font-size: 14px;
+    padding-left: 10px;
+    color: white;
+}
+
+.user{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: 25%;
+    margin-bottom: 10%;
+    margin-top: 10%;
+}
